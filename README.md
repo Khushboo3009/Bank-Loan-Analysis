@@ -1,4 +1,5 @@
 Bank Loan Analysis 
+
 Overview
 
 This project focuses on analyzing bank loan data to uncover key insights related to loan performance, customer behavior, and financial risk. Using SQL, Power BI, and Python (Jupyter Notebook), the project provides a comprehensive analysis of loan applications, funded amounts, repayments, and risk segmentation.
